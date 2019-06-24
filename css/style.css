@@ -129,6 +129,10 @@ html {
     padding-left: 10% !important;
     padding-right: 10% !important;  
 }
+.coluna {
+    float: left;
+    width: 50%;
+}
 
 /* Animação da Seta para Baixo tem que fazer a mesma coisa para os prefixos -ms- -moz- -ms- 
 .ajuste-div {
@@ -274,12 +278,18 @@ Fim da animação*/
 .text-center .projeto {
     margin: 0 auto;
 }
-.coluna4 {
+/*.parte {
+    margin: 5px;
+    background: tomato;
+    text-align: center;
+    font-size: 1em;
+}
+.service {
     float: left;
     width: 25%;
     padding: 10px 15px 100px 15px;
     box-sizing:border-box;
-}
+}*/
 
 .circulo {
     width: 107px;
@@ -288,17 +298,16 @@ Fim da animação*/
     border-radius: 50%;
     margin: 0px auto 20px;
     overflow: hidden;
+    text-align: center;
 }
 .circulo i {
     font-size: 5em;
     text-align: center;
     line-height: 107px;
 }
-#service article {
-    text-align: center;
-}
 #service h3 {
     font-size: 2.2em;
+    text-align: center;
     margin-bottom: 15px;
     text-transform: uppercase;
 }
