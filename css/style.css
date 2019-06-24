@@ -130,7 +130,7 @@ html {
     padding-right: 10% !important;  
 }
 
-/* Animação da Seta para Baixo tem que fazer a mesma coisa para os prefixos -ms- -moz- -ms- */
+/* Animação da Seta para Baixo tem que fazer a mesma coisa para os prefixos -ms- -moz- -ms- 
 .ajuste-div {
     position: relative;
     top: -54px;
@@ -156,7 +156,7 @@ html {
 .iconeAvancar:hover{
     text-decoration: none;
 }
-/*Fim da animação*/
+Fim da animação*/
 
 .avatar {
     width: 115px;
