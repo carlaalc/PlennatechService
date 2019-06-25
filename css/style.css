@@ -190,11 +190,7 @@ Fim da animação*/
     background-color: black;
     height: 35px;
 }*/
-#quemsomos p {
-    @media (max-width: 600px) {
-        font-size: 5.4em;
-    }
-}
+
 #nossosclientes h2 {
     padding-top: 100px;
 }
